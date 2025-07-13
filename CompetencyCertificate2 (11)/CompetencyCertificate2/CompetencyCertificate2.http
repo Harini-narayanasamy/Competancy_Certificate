@@ -1,0 +1,6 @@
+@CompetencyCertificate2_HostAddress = http://localhost:5251
+
+GET {{CompetencyCertificate2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

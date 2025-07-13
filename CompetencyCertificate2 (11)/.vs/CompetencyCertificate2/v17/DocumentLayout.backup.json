@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|c:\\users\\harini narayanasamy\\downloads\\competencycertificate2 (11)\\competencycertificate2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|solutionrelative:competencycertificate2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|c:\\users\\harini narayanasamy\\downloads\\competencycertificate2 (11)\\competencycertificate2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|solutionrelative:competencycertificate2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|c:\\users\\harini narayanasamy\\downloads\\competencycertificate2 (11)\\competencycertificate2\\controllers\\masterdatamanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|solutionrelative:competencycertificate2\\controllers\\masterdatamanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|c:\\users\\harini narayanasamy\\downloads\\competencycertificate2 (11)\\competencycertificate2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|solutionrelative:competencycertificate2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|c:\\users\\harini narayanasamy\\downloads\\competencycertificate2 (11)\\competencycertificate2\\models\\contractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|solutionrelative:competencycertificate2\\models\\contractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|c:\\users\\harini narayanasamy\\downloads\\competencycertificate2 (11)\\competencycertificate2\\models\\initiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|solutionrelative:competencycertificate2\\models\\initiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\CompetencyCertificate2\\CompetencyCertificate2\\Migrations\\20250705085018_Finals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|c:\\users\\harini narayanasamy\\downloads\\competencycertificate2 (11)\\competencycertificate2\\migrations\\20250707124318_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B783CB5F-1202-4936-8BBF-88FCE15C432F}|CompetencyCertificate2\\CompetencyCertificate.csproj|solutionrelative:competencycertificate2\\migrations\\20250707124318_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250705085018_Finals.cs",
+              "DocumentMoniker": "C:\\project\\CompetencyCertificate2\\CompetencyCertificate2\\Migrations\\20250705085018_Finals.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\project\\CompetencyCertificate2\\CompetencyCertificate2\\Migrations\\20250705085018_Finals.cs",
+              "ToolTip": "C:\\project\\CompetencyCertificate2\\CompetencyCertificate2\\Migrations\\20250705085018_Finals.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\project\\CompetencyCertificate2\\CompetencyCertificate2\\Migrations\\20250705085018_Finals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T08:50:18.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Initiate.cs",
+              "DocumentMoniker": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\Models\\Initiate.cs",
+              "RelativeDocumentMoniker": "CompetencyCertificate2\\Models\\Initiate.cs",
+              "ToolTip": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\Models\\Initiate.cs",
+              "RelativeToolTip": "CompetencyCertificate2\\Models\\Initiate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T08:29:24.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contractor.cs",
+              "DocumentMoniker": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\Models\\Contractor.cs",
+              "RelativeDocumentMoniker": "CompetencyCertificate2\\Models\\Contractor.cs",
+              "ToolTip": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\Models\\Contractor.cs",
+              "RelativeToolTip": "CompetencyCertificate2\\Models\\Contractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:20:28.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CompetencyCertificate2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\Models\\Employee.cs",
+              "RelativeToolTip": "CompetencyCertificate2\\Models\\Employee.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAswF0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:50:41.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\appsettings.json",
+              "RelativeDocumentMoniker": "CompetencyCertificate2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\appsettings.json",
+              "RelativeToolTip": "CompetencyCertificate2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T17:42:49.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\Program.cs",
+              "RelativeDocumentMoniker": "CompetencyCertificate2\\Program.cs",
+              "ToolTip": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\Program.cs",
+              "RelativeToolTip": "CompetencyCertificate2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:24:02.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterDataManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\Controllers\\MasterDataManagementController.cs",
+              "RelativeDocumentMoniker": "CompetencyCertificate2\\Controllers\\MasterDataManagementController.cs",
+              "ToolTip": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\Controllers\\MasterDataManagementController.cs",
+              "RelativeToolTip": "CompetencyCertificate2\\Controllers\\MasterDataManagementController.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAADgvyoCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:30:41.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250707124318_Final.cs",
+              "DocumentMoniker": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\Migrations\\20250707124318_Final.cs",
+              "RelativeDocumentMoniker": "CompetencyCertificate2\\Migrations\\20250707124318_Final.cs",
+              "ToolTip": "C:\\Users\\Harini Narayanasamy\\Downloads\\CompetencyCertificate2 (11)\\CompetencyCertificate2\\Migrations\\20250707124318_Final.cs",
+              "RelativeToolTip": "CompetencyCertificate2\\Migrations\\20250707124318_Final.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:43:18.538Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
